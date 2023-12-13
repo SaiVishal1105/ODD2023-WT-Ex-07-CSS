@@ -221,7 +221,7 @@ Use a media query to adjust font size and line spacing for small screens like mo
 ## Step 4: Apply media query for medium screens (tablets)
 Use another media query to adjust font size and line spacing for medium screens like tablets.
 
-## Step 5: Apply media query for medium screens (tablets)
+## Step 5: Apply media query for medium screens (desktop)
 Use another media query to adjust font size and line spacing for large screens like desktops.
 
 ## Step 6: End the code
@@ -278,6 +278,7 @@ End the HTML code by closing the open tags.
 # OUTPUT
 
 ![Alt text](<Screenshot 2023-12-06 111929.png>)
+![Alt text](<Screenshot 2023-12-13 085031.png>)
 ![Alt text](<Screenshot 2023-12-06 112007.png>)
 
 
@@ -343,7 +344,6 @@ Saveetha Engineering College
 # OUTPUT
 
 ![Alt text](<Screenshot 2023-12-06 112049.png>)
-![Alt text](<Screenshot 2023-12-13 085031.png>)
 ![Alt text](<Screenshot 2023-12-06 112153.png>)
 
 # QUESTION 6: DARK MODE IMPLEMENTAION
