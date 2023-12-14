@@ -165,8 +165,6 @@ Use another media query to target devices in portrait orientation and adjust sty
 ## Step 5: End the code
 End the HTML code by closing the open tags.
 
-
-
 # CODE
 ```
 <!DOCTYPE html>
